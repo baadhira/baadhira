@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Badira P P 👋<br>Software Developer at IBM Building scalable solutions and crafting seamless user experiences.<br>👨‍💻 About Me<br>I am a passionate software developer working at IBM, I focus on building tools that solve real-world problems and exploring the depths of modern web technologies. I thrive on creating clean, efficient, and user-centric code.<br>-When I'm not coding, you can find me @baadhira.wordpress.com.<br>-Currently contributing to enterprise-level solutions at IBM.<br>-Deepening my expertise in Frontend Architecture and Performance Optimization.<br>-I’m looking to collaborate on Open Source Projects related to React and UI libraries.
+Hi there, I'm Badira P P 👋 <br>👨‍💻 About Me<br>I am a passionate software developer working at IBM, I focus on building tools that solve real-world problems and exploring the depths of modern web technologies. I thrive on creating clean, efficient, and user-centric code.<br>-When I'm not coding, you can find me @baadhira.wordpress.com.<br>-Currently contributing to enterprise-level solutions at IBM.<br>-Deepening my expertise in Frontend Architecture and Performance Optimization.<br>-I’m looking to collaborate on Open Source Projects related to React and UI libraries.
 
 
 ## 🌐 Socials:
